@@ -1,7 +1,4 @@
 print("test")
 
-
-
 def test():
-    print("lol")
-
+    print("test2")
